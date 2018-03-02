@@ -1,0 +1,20 @@
+{
+  "name": "publisher-subscriber-and-observer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obevanken/Publisher-Subscriber-and-Observer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obevanken/Publisher-Subscriber-and-Observer/issues"
+  },
+  "homepage": "https://github.com/obevanken/Publisher-Subscriber-and-Observer#readme"
+}
